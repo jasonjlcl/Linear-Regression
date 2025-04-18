@@ -20,12 +20,6 @@ The dataset used is `Smarket` from the [ISLR](https://www.statlearning.com/) pac
 
 ---
 
-## 🛠️ How to Run
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/smarket-logistic-regression.git
-   cd smarket-logistic-regression
 
 pip install pandas numpy statsmodels scikit-learn
 jupyter notebook
